@@ -54,8 +54,9 @@
 
     
  
-    let base_url = "https://inoperable-tooth.000webhostapp.com/restaurant.php";
+    //let base_url = "https://inoperable-tooth.000webhostapp.com/restaurant.php";
         //base_url = "http://localhost/Reg/restaurant.php";
+        let base_url = "restaurant.php";
 
         $("document").ready(function(){
             getFoodList();
